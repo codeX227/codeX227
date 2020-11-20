@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **codeX227/codeX227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 **⚡我是 想做大佬的菜狗，大三学生，一个学习中的Java菜狗，想要做一个大佬**
 
-## Contact me
+### Contact me
 微信：omg1327
 邮箱：1872744675@qq.com xushuanglong0227@gmail.com
 
-###Others
+### Others
 由于网络问题，另有平台gitee：<https://gitee.com/xiangzuodalaodecaigou>
