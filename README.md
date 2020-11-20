@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Contact me
 微信：omg1327
 
-邮箱：1872744675@qq.com xushuanglong0227@gmail.com
+邮箱：1872744675@qq.com     xushuanglong0227@gmail.com
 
 ### Others
 github主要作为发现项目学习技术所用，项目多在国内托管平台gitee
