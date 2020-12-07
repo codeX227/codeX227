@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 邮箱：1872744675@qq.com     xushuanglong0227@gmail.com
 
 ### Others
-github主要为发现项目学习技术所用，出门右转国内托管平台gitee
+github总是登不上，出门右转gitee平台
 
 指路 <https://gitee.com/xiangzuodalaodecaigou>
